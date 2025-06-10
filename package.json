@@ -1,0 +1,10 @@
+{
+  "name": "geiger",
+  "version": "0.1.0",
+  "description": "A Geiger counter for AI agents \u2014 one read-only command that inventories every agent, MCP server, plugin, and AI extension on a machine",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
